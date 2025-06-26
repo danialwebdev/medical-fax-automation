@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /login.php [L,R=302]

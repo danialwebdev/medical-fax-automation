@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0",
+        "dompdf/dompdf": "^3.1",
+        "ringcentral/ringcentral-php": "^3.0"
+    }
+}

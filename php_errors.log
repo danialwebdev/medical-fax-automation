@@ -1,0 +1,29 @@
+[01-May-2025 18:37:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u531037110/domains/devletllc.com/public_html/autobilling/includes/config.php on line 2
+[01-May-2025 18:37:34 UTC] Error processing patient: Duplicate entry 'Priscilla-Collins-L3916' for key 'unique_patient'
+[01-May-2025 18:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendFax() in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php:336
+Stack trace:
+#0 {main}
+  thrown in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 336
+[01-May-2025 18:38:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u531037110/domains/devletllc.com/public_html/autobilling/includes/config.php on line 2
+[01-May-2025 18:38:04 UTC] Error processing patient: Duplicate entry 'Priscilla-Collins-L3916' for key 'unique_patient'
+[01-May-2025 18:38:04 UTC] Error processing patient: Duplicate entry 'Emma E-Ray-L1852' for key 'unique_patient'
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 340
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 345
+[01-May-2025 18:38:04 UTC] Fax failed for William Baker Jr
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 340
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 345
+[01-May-2025 18:38:04 UTC] Fax failed for Ann Thomas-todd
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 340
+[01-May-2025 18:38:04 UTC] PHP Warning:  Undefined variable $faxSent in /home/u531037110/domains/devletllc.com/public_html/autobilling/process_form.php on line 345
+[01-May-2025 18:38:04 UTC] Fax failed for Ronald Wood
+[01-May-2025 18:38:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u531037110/domains/devletllc.com/public_html/autobilling/includes/config.php on line 2
+[01-May-2025 18:38:27 UTC] Error processing patient: Duplicate entry 'Priscilla-Collins-L3916' for key 'unique_patient'
+[01-May-2025 18:38:27 UTC] Error processing patient: Duplicate entry 'Emma E-Ray-L1852' for key 'unique_patient'
+[01-May-2025 18:38:27 UTC] Error processing patient: Duplicate entry 'William-Baker Jr-L0651+L1852' for key 'unique_patient'
+[01-May-2025 18:38:27 UTC] Error processing patient: Duplicate entry 'Ann-Thomas-todd-' for key 'unique_patient'
+[01-May-2025 18:38:27 UTC] Error processing patient: Duplicate entry 'Ronald-Wood-' for key 'unique_patient'
+[01-May-2025 18:38:43 UTC] Error processing patient: Duplicate entry 'Priscilla-Collins-L3916' for key 'unique_patient'
+[01-May-2025 18:38:43 UTC] Error processing patient: Duplicate entry 'Emma E-Ray-L1852' for key 'unique_patient'
+[01-May-2025 18:38:43 UTC] Error processing patient: Duplicate entry 'William-Baker Jr-L0651+L1852' for key 'unique_patient'
+[01-May-2025 18:38:43 UTC] Error processing patient: Duplicate entry 'Ann-Thomas-todd-' for key 'unique_patient'
+[01-May-2025 18:38:43 UTC] Error processing patient: Duplicate entry 'Ronald-Wood-' for key 'unique_patient'
